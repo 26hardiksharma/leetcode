@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/26hardiksharma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
