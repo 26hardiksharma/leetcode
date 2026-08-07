@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/26hardiksharma/leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/26hardiksharma/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/26hardiksharma/leetcode/tree/master/0326-power-of-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/26hardiksharma/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/26hardiksharma/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/26hardiksharma/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/26hardiksharma/leetcode/tree/master/0326-power-of-three) |
 ## Queue
 |  |
 | ------- |
