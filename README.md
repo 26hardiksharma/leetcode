@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/26hardiksharma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,16 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/26hardiksharma/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/26hardiksharma/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/26hardiksharma/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -124,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/26hardiksharma/leetcode/tree/master/0011-container-with-most-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
