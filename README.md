@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/26hardiksharma/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
