@@ -13,16 +13,8 @@ class RecentCounter {
         while(!q.isEmpty() && q.peek() <lb) {
             q.poll();
         }
-        int count = 0;
-        Queue<Integer> sync = new LinkedList<>();
-        while(!q.isEmpty() && q.peek()<=ub) {
-            count++;
-            sync.offer(q.poll());
-        }
 
-        while(!q.isEmpty()) sync.offer(q.poll());
-        q = sync;
-        return count;
+        return q.size();
     }
 }
 
