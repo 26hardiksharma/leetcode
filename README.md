@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/26hardiksharma/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/26hardiksharma/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/26hardiksharma/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/26hardiksharma/leetcode/tree/master/0069-sqrtx) |
+| [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Newton's Method
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/26hardiksharma/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/26hardiksharma/leetcode/tree/master/0933-number-of-recent-calls) |
+| [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -171,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 <!---LeetCode Topics End-->
