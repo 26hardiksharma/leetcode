@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/26hardiksharma/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/26hardiksharma/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/26hardiksharma/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/26hardiksharma/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Stack
 |  |
 | ------- |
