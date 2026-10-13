@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/26hardiksharma/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/26hardiksharma/leetcode/tree/master/1603-design-parking-system) |
+| [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Counting
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 ## Ordered Set
 |  |
 | ------- |
