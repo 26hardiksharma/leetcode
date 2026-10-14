@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/26hardiksharma/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
+| [3829-design-ride-sharing-system](https://github.com/26hardiksharma/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 | [3815-design-auction-system](https://github.com/26hardiksharma/leetcode/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/26hardiksharma/leetcode/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 ## Divide and Conquer
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3815-design-auction-system](https://github.com/26hardiksharma/leetcode/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/26hardiksharma/leetcode/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 ## Counting
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/26hardiksharma/leetcode/tree/master/0933-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/26hardiksharma/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
