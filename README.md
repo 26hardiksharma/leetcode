@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/26hardiksharma/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
+| [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/26hardiksharma/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
+| [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/26hardiksharma/leetcode/tree/master/1603-design-parking-system) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
+| [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 ## Counting
 |  |
 | ------- |
@@ -185,8 +188,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
+| [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
+| [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 <!---LeetCode Topics End-->
