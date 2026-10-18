@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3242-design-neighbor-sum-service](https://github.com/26hardiksharma/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3242-design-neighbor-sum-service](https://github.com/26hardiksharma/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
@@ -213,12 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3815-design-auction-system](https://github.com/26hardiksharma/leetcode/tree/master/3815-design-auction-system) |
 | [3885-design-event-manager](https://github.com/26hardiksharma/leetcode/tree/master/3885-design-event-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 | [3815-design-auction-system](https://github.com/26hardiksharma/leetcode/tree/master/3815-design-auction-system) |
