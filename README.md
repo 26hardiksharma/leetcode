@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/26hardiksharma/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
 | [3242-design-neighbor-sum-service](https://github.com/26hardiksharma/leetcode/tree/master/3242-design-neighbor-sum-service) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/26hardiksharma/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/26hardiksharma/leetcode/tree/master/1603-design-parking-system) |
+| [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
