@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/26hardiksharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
