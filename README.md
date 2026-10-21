@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/26hardiksharma/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/26hardiksharma/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/26hardiksharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
