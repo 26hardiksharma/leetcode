@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/26hardiksharma/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/26hardiksharma/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/26hardiksharma/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/26hardiksharma/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/26hardiksharma/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/26hardiksharma/leetcode/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/26hardiksharma/leetcode/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/26hardiksharma/leetcode/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/26hardiksharma/leetcode/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/26hardiksharma/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
