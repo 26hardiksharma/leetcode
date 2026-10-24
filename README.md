@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/26hardiksharma/leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/26hardiksharma/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/26hardiksharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Newton's Method
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/26hardiksharma/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/26hardiksharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Number Theory
 |  |
 | ------- |
