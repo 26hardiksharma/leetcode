@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/26hardiksharma/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/26hardiksharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Newton's Method
 |  |
