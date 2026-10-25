@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/26hardiksharma/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/26hardiksharma/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/26hardiksharma/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/26hardiksharma/leetcode/tree/master/0258-add-digits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/26hardiksharma/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/26hardiksharma/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
