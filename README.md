@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/26hardiksharma/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/26hardiksharma/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/26hardiksharma/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/26hardiksharma/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/26hardiksharma/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
