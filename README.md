@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/26hardiksharma/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/26hardiksharma/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/26hardiksharma/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/26hardiksharma/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/26hardiksharma/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/26hardiksharma/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/26hardiksharma/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/26hardiksharma/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/26hardiksharma/leetcode/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/26hardiksharma/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/26hardiksharma/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/26hardiksharma/leetcode/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
