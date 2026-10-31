@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/26hardiksharma/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0414-third-maximum-number](https://github.com/26hardiksharma/leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/26hardiksharma/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/26hardiksharma/leetcode/tree/master/0414-third-maximum-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
