@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/26hardiksharma/leetcode/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/26hardiksharma/leetcode/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/26hardiksharma/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/26hardiksharma/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/26hardiksharma/leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3536-maximum-product-of-two-digits](https://github.com/26hardiksharma/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/26hardiksharma/leetcode/tree/master/3731-find-missing-elements) |
@@ -189,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/26hardiksharma/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/26hardiksharma/leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
@@ -326,4 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/26hardiksharma/leetcode/tree/master/0257-binary-tree-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
