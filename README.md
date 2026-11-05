@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/26hardiksharma/leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/26hardiksharma/leetcode/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/26hardiksharma/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/26hardiksharma/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/26hardiksharma/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/26hardiksharma/leetcode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/26hardiksharma/leetcode/tree/master/0566-reshape-the-matrix) |
 | [1603-design-parking-system](https://github.com/26hardiksharma/leetcode/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/26hardiksharma/leetcode/tree/master/0566-reshape-the-matrix) |
 | [3242-design-neighbor-sum-service](https://github.com/26hardiksharma/leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
