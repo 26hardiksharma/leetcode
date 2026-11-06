@@ -13,30 +13,28 @@
  *     }
  * }
  */
-
 class Solution {
+    List<Integer> l = new ArrayList<>();
 
-    public static void traverse(TreeNode root, ArrayList<Integer> l) {
+    public void inorder(TreeNode root) {
         if(root == null) return;
 
-        traverse(root.left,l);
+        inorder(root.left);
         l.add(root.val);
-        traverse(root.right,l);
+        inorder(root.right);
+
     }
     public int getMinimumDifference(TreeNode root) {
-        ArrayList<Integer> l = new ArrayList<>();
-
-        traverse(root,l);
-
+        inorder(root);
         int minDiff = Integer.MAX_VALUE;
-
+        int i = 0;
+        int j = 1;
         int size = l.size();
-
-        for(int i = 1;i<size;i++) {
-            minDiff = Math.min(minDiff,l.get(i)- l.get(i-1));
-
+        while(j<size) {
+            minDiff = Math.min(minDiff,Math.abs(l.get(j)-l.get(i)));
+            i++;
+            j++;
         }
-
         return minDiff;
     }
 }
