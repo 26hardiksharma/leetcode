@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1357-apply-discount-every-n-orders](https://github.com/26hardiksharma/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/26hardiksharma/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/26hardiksharma/leetcode/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1357-apply-discount-every-n-orders](https://github.com/26hardiksharma/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/26hardiksharma/leetcode/tree/master/2043-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/26hardiksharma/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/26hardiksharma/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/26hardiksharma/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+| [1357-apply-discount-every-n-orders](https://github.com/26hardiksharma/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1603-design-parking-system](https://github.com/26hardiksharma/leetcode/tree/master/1603-design-parking-system) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
 | [1845-seat-reservation-manager](https://github.com/26hardiksharma/leetcode/tree/master/1845-seat-reservation-manager) |
