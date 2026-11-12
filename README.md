@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3884-first-matching-character-from-both-ends](https://github.com/26hardiksharma/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/26hardiksharma/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/26hardiksharma/leetcode/tree/master/0709-to-lower-case) |
 | [2353-design-a-food-rating-system](https://github.com/26hardiksharma/leetcode/tree/master/2353-design-a-food-rating-system) |
+| [3884-first-matching-character-from-both-ends](https://github.com/26hardiksharma/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Data Stream
 |  |
 | ------- |
