@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/26hardiksharma/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/26hardiksharma/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/26hardiksharma/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1797-design-authentication-manager](https://github.com/26hardiksharma/leetcode/tree/master/1797-design-authentication-manager) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/26hardiksharma/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
