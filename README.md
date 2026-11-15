@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/26hardiksharma/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/26hardiksharma/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/26hardiksharma/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/26hardiksharma/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/26hardiksharma/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/26hardiksharma/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/26hardiksharma/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/26hardiksharma/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/26hardiksharma/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
