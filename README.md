@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/26hardiksharma/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/26hardiksharma/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/26hardiksharma/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/26hardiksharma/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/26hardiksharma/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/26hardiksharma/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/26hardiksharma/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/26hardiksharma/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/26hardiksharma/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/26hardiksharma/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/26hardiksharma/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/26hardiksharma/leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/26hardiksharma/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
