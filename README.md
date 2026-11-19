@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/26hardiksharma/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/26hardiksharma/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/26hardiksharma/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1357-apply-discount-every-n-orders](https://github.com/26hardiksharma/leetcode/tree/master/1357-apply-discount-every-n-orders) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/26hardiksharma/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/26hardiksharma/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/26hardiksharma/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/26hardiksharma/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3508-implement-router](https://github.com/26hardiksharma/leetcode/tree/master/3508-implement-router) |
 ## Newton's Method
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/26hardiksharma/leetcode/tree/master/0566-reshape-the-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/26hardiksharma/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3242-design-neighbor-sum-service](https://github.com/26hardiksharma/leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
