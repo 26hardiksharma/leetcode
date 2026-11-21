@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/26hardiksharma/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/26hardiksharma/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/26hardiksharma/leetcode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/26hardiksharma/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/26hardiksharma/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/26hardiksharma/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
