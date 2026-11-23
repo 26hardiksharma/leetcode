@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/26hardiksharma/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/26hardiksharma/leetcode/tree/master/0500-keyboard-row) |
 | [0566-reshape-the-matrix](https://github.com/26hardiksharma/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/26hardiksharma/leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/26hardiksharma/leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/26hardiksharma/leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/26hardiksharma/leetcode/tree/master/0912-sort-an-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/26hardiksharma/leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/26hardiksharma/leetcode/tree/master/0605-can-place-flowers) |
 ## Breadth-First Search
 |  |
 | ------- |
